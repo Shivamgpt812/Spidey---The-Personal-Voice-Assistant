@@ -19,7 +19,7 @@ Spidey can be used for various tasks such as getting information, performing cal
 
 ## Demo Image
 
-![image](https://github.com/Shivamgpt812/Animated-Portfolio/assets/144247614/9b9aaa88-aa74-4456-a2ec-47d40042d102)
+![image](https://github.com/Shivamgpt812/Spidey---The-Personal-Voice-Assistant/assets/144247614/dc59f044-13cd-4690-9208-f44cf54af0ea)
 
 ## Contributing
 
